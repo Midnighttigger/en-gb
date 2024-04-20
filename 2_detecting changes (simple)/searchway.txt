@@ -1,0 +1,1 @@
+en kind:=folder folderpath:locale

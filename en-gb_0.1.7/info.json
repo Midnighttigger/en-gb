@@ -1,0 +1,12 @@
+{
+        "name": "en-gb",
+        "version": "0.1.7",
+        "title": "British English",
+        "author": "Midnighttigger",
+        "dependencies": [
+                "? core",
+                "? base"
+        ],
+        "description": "British English, selectably different from the regular english, need to do some file buisness to make it work. mod support is https://mods.factorio.com/mod/mods-en-gb",
+        "factorio_version": "1.1"
+}
