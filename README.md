@@ -1,3 +1,4 @@
+People are fine to make contributions via pull requests to this mod!
 # Factorio_en-gb
  English, UK for Factorio https://mods.factorio.com/mod/en-gb
  mod support here https://mods.factorio.com/mod/mods-en-gb
