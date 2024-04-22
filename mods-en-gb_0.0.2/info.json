@@ -1,0 +1,28 @@
+{
+        "name": "mods-en-gb",
+        "version": "0.0.2",
+        "title": "British English for mods",
+        "author": "Midnighttigger",
+        "dependencies": [
+                "en-gb",
+                "? bzaluminum",
+                "? bzcarbon",
+                "? bzfoundry",
+                "? bzlead",
+                "? bzsilicon",
+                "? bztitanium",
+                "? bztungsten",
+                "? bzzirconium",
+                "? bztin",
+                "? bzgas",
+                "? bzgold",
+                "? belt-embargo",
+		"? Krastorio2",
+		"? cargo-ships",
+		"? ArmouredBiters",
+		"? Armor_pockets",
+                "? unbarrel"
+        ],
+        "description": "Addition to en-gb for British English Support for mods, see https://mods.factorio.com/mod/en-gb on how to enable en-gb",
+        "factorio_version": "1.1"
+}
