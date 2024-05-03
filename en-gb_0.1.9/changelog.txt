@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 2024-5-3
+  Rework:
+    - Changed name of mod but still as identifier (en-gb)
+    - Removed percent completed and now just shows the name and identifier (info.json change)
+    - Mod description
+    - Reduced Dependency related parts of the mod to reduce problems with load order (probably has no effect but oh well)
+  Features:
+    - flib locale identifiers & names implemented
+---------------------------------------------------------------------------------------------------
 Version: 0.1.8
 Date: 2024-4-22
   Fixes:
