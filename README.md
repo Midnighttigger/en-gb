@@ -3,10 +3,11 @@ People are fine to make contributions via pull requests to this mod!
  English, UK for Factorio https://mods.factorio.com/mod/en-gb
  mod support here https://mods.factorio.com/mod/mods-en-gb
 ---
+#IMPORTANT! If you still want achievements on steam please install through the method that doesn't require running the mod
 #Important Summary (ish)
 - This mod doesn't overwrite the existing `en` locale and instead uses a different unsupported locale `en-gb`
 - Mod support is on a separate mod called [mods-en-gb](https://mods.factorio.com/mod/mods-en-gb)
-- I will make a english, UK of the space age dlc very soon after the space age dlc release
+- Includes Space Age, Quality and Elevated Rails DLC support inside as of version mod 0.2.0
 ---
 #How to Install (because of how the game manages unsupported languages)
 ##via editing config.ini but when you switch language once you'll have to do again
@@ -22,7 +23,7 @@ People are fine to make contributions via pull requests to this mod!
 ##via complete install (with this you can actually run en-gb whilst not running the mod)
 - Find mods folder in [User data directory](https://wiki.factorio.com/Application_directory#User_data_directory)
 - open the .zip (mod itself) and navigate to a folder called "basegame" which this folder is next to other files including info.json
-- Copy `base` & `core` from the `basegame` folder
+- Copy `base` & `core` from the `basegame` folder (If you have the DLC copy over `elevated-rails` , `quality` and `space-age` as well)
 - Find your Factorio [Application Directory](https://wiki.factorio.com/Application_directory#Application_directory)
 - go into the `data` folder
 - paste

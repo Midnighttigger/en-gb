@@ -1,0 +1,12 @@
+{
+        "name": "Bwuhuo",
+        "version": "0.1.0",
+        "title": "Bwuhuo",
+        "author": "Midnighttigger",
+        "dependencies": [
+                "space-age",
+                "? en-gb"
+        ],
+        "description": "Renames Gleba to Bwuhuo for all locales",
+        "factorio_version": "2.0"
+}
