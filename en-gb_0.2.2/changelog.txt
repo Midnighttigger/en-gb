@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 2024-10-22
+  Fixes:
+    - Fixed Critical issue where you couldnt get number before property units (hPa, etc)
+    - Explosives tech name, [Lock, Unlock and or] in core.cfg
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2024-10-21
+  Fixes:
+    - energy suffixes
+    - Queue research button
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2024-10-14
   Features:
