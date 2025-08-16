@@ -1,3 +1,0 @@
-en kind:=folder folderpath:locale
-
-find ~/.steam/debian-installation/steamapps/common/Factorio -type d -name "en" -exec cp "{}" ~/.factorio/modding/en-gb/"2_detecting changes (simple)"/data -r \;

@@ -1,0 +1,7 @@
+find ~/.steam/debian-installation/steamapps/common/Factorio -type d -name "en" -exec cp "{}" ~/.factorio/modding/en-gb/"2_detecting changes (simple)"/data -r
+
+find ~/.factorio/modding/en-gb/en-gb/basegame -type d -name "en-gb" -exec cp "{}" ~/.factorio/modding/en-gb/en-gb/locale -r \;
+
+pushd ~/.factorio/modding/en-gb && zip -r ~/.factorio/modding/en-gb/releases/en-gb_0.2.4.zip en-gb && popd
+
+pushd ~/.factorio/modding/en-gb && zip -r ~/.factorio/modding/en-gb/releases/mods-en-gb_0.0.3.zip mods-en-gb && popd
