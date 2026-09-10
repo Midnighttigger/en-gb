@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2026-9-10
+  Features:
+    - Up to date with Factorio 2.1.17
+  Fixes:
+    - minor amounts of american spellings of "ize" and probably something else
+    - some extra hyphens
+    - "fulgora-sunk-ruin-big-decal=Big flooded rulgoran ruin decal" patched from vanilla
+---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-9-10
   Features:
