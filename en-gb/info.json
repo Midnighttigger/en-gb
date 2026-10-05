@@ -1,9 +1,9 @@
 {
         "name": "en-gb",
-        "version": "0.3.0",
-        "title": "English, UK",
+        "version": "0.3.1",
+        "title": "English (Great Britain)",
         "author": "Midnighttigger",
         "dependencies": [],
-        "description": "Adds English, UK (en-gb) to the game as a seperate language, due to this you have to do some small file edits to make it work which I have provided how on the modpage. Some mods are supported with: mods-en-gb",
+        "description": "Adds English, GB (en-gb) to the game as a seperate, selectable language, Some mods are supported with: mods-en-gb",
         "factorio_version": "2.1"
 }
